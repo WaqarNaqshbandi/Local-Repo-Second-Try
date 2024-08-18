@@ -10,3 +10,5 @@ git branch -M <new branch name> <to rename the branch>
 git checkout -b <new branch name>
 git checkout <brand name you want to switch to>
 git brand -d <branch name you want to delete>
+
+Note: Need to learn #Markdown
